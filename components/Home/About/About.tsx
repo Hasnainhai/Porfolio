@@ -112,7 +112,7 @@ const About = () => {
               {aboutInfo.website}
             </p>
             <p className="text-base sm:text-lg text-gray-400 text-center">
-              Website Launched
+              App Launched
             </p>
           </div>
         </div>

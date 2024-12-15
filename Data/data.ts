@@ -1,31 +1,31 @@
 export const BaseInfo = {
-  name: "Sajal",
-  position: "Full Stack Web Developer",
+  name: "HASNAIN HAIDER",
+  position: "Full Stack App Developer",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro numquam ad, vero consequuntur aperiam cumque voluptatum pariatur veniam? Qui facilis est ipsam odio cum!",
-  profilePic: "/images/hero.png",
+    "Experienced Software Engineer and Senior Flutter Developer skilled in building innovative cross-platform apps like Nanny_Fairy, Zarozar, and Citta, with expertise in real-time databases and API integration.",
+  profilePic: "/images/hero1.png",
 };
 
 export const aboutInfo = {
-  title: "Crafting Web Application with Passion and Precision",
+  title: "Crafting App Application with Passion and Precision",
   description:
-    "At webdev warriors, we’re a dedicated team of designers and developers committed to delivering tailored web solutions. With a blend of creativity and technical expertise, we help businesses elevate their online presence and achieve their goals",
+    "At Intralink Technologies, we’re a dedicated team of designers and developers committed to delivering tailored app solutions. With a blend of creativity and technical expertise, we help businesses elevate their online presence and achieve their goals",
   client: "50+",
-  experience: "3+",
-  project: "200+",
-  website: "100+",
+  experience: "4+",
+  project: "50+",
+  website: "50+",
 };
 
 export const servicesData = [
   {
     id: 1,
-    title: " Web Applications",
-    description: "Tailored web apps built with the latest technologies.",
+    title: " App Applications",
+    description: "Tailored  apps built with the latest technologies.",
     icon: "/images/s1.png",
   },
   {
     id: 2,
-    title: "E-commerce Websites",
+    title: "E-commerce Apps",
     description:
       "Secure online stores with user-friendly shopping and payments.",
     icon: "/images/s2.png",
@@ -65,7 +65,7 @@ export const servicesData = [
   },
   {
     id: 8,
-    title: "Website Management",
+    title: "App Management",
     description: "Easy content management systems with flexible controls.",
     icon: "/images/s8.png",
   },
@@ -117,49 +117,49 @@ export const projectData = [
 export const skillsData = [
   {
     id: 1,
-    title: "React",
-    image: "/images/react.svg",
+    title: "Flutter",
+    image: "/images/flutter.svg",
     percent: "90%",
   },
   {
     id: 2,
-    title: "CSS",
+    title: "Dart",
     image: "/images/css.svg",
     percent: "97%",
   },
   {
     id: 3,
-    title: "JavaScript",
+    title: "Android",
     image: "/images/js.svg",
     percent: "77%",
   },
   {
     id: 4,
-    title: "TypeScript",
+    title: "Ios",
     image: "/images/ts.svg",
     percent: "67%",
   },
   {
     id: 5,
-    title: "HTML",
+    title: "Swift",
     image: "/images/html.svg",
     percent: "67%",
   },
   {
     id: 6,
-    title: "Node JS",
+    title: "Cotlin",
     image: "/images/node.svg",
     percent: "77%",
   },
   {
     id: 7,
-    title: "MongoDB",
+    title: "Java",
     image: "/images/mongo.svg",
     percent: "65%",
   },
   {
     id: 8,
-    title: "Python",
+    title: "Api's",
     image: "/images/python.svg",
     percent: "55%",
   },
@@ -171,7 +171,7 @@ export const skillsData = [
   },
   {
     id: 10,
-    title: "Vue",
+    title: "SqLite",
     image: "/images/vue.svg",
     percent: "35%",
   },
@@ -215,32 +215,32 @@ export const clientReviews = [
 export const blogs = [
   {
     id: 1,
-    title: "Top Web Development Trends to Watch in 2024",
+    title: "Top app Development Trends to Watch in 2024",
     summary:
-      "Explore the key web development trends for 2024 and their impact on your business.",
+      "Explore the key app development trends for 2024 and their impact on your business.",
     date: "August 18, 2024",
     image: "/images/b1.jpg",
   },
   {
     id: 2,
-    title: "Why Your Business Needs a Custom Web Application",
+    title: "Why Your Business Needs a Custom app Application",
     summary:
-      "Discover why custom web applications are crucial for driving business growth and efficiency.",
+      "Discover why custom app applications are crucial for driving business growth and efficiency.",
     date: "August 10, 2024",
     image: "/images/b2.jpg",
   },
   {
     id: 3,
-    title: "The Importance of Website Speed Optimization",
+    title: "The Importance of app Speed Optimization",
     summary:
-      "Understand how website speed impacts user experience and learn essential optimization tips.",
+      "Understand how app speed impacts user experience and learn essential optimization tips.",
     date: "July 25, 2024",
     image: "/images/b3.jpg",
   },
 ];
 
 export const contactData = {
-  phone: "+88(012345 789)",
-  email: "example@gmail.com",
-  address: "Dhaka , Bangladesh",
+  phone: "+92(3129739152)",
+  email: "hasnainhaiderbs2099@gmail.com",
+  address: "Gilgit , Pakistan",
 };

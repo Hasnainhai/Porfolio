@@ -2,7 +2,7 @@ export const BaseInfo = {
   name: "HASNAIN HAIDER",
   position: "Full Stack App Developer",
   description:
-    "Experienced Software Engineer and Senior Flutter Developer skilled in building innovative cross-platform apps like Nanny_Fairy, Zarozar, and Citta, with expertise in real-time databases and API integration.",
+    "Experienced Software Engineer and Senior Flutter Developer specializing in cross-platform apps, real-time databases, API integration, and seamless user experiences.",
   profilePic: "/images/hero1.png",
 };
 
@@ -76,6 +76,7 @@ export const projectData = [
     id: 1,
     image: "/images/p1.png",
     url: "https://agency-opal-eight.vercel.app/",
+    video: "",
   },
   {
     id: 2,
@@ -147,7 +148,7 @@ export const skillsData = [
   },
   {
     id: 6,
-    title: "Cotlin",
+    title: "Kotlin",
     image: "/images/node.svg",
     percent: "77%",
   },
@@ -171,7 +172,7 @@ export const skillsData = [
   },
   {
     id: 10,
-    title: "SqLite",
+    title: "SQLite",
     image: "/images/vue.svg",
     percent: "35%",
   },

@@ -8,8 +8,8 @@ const ContactForm = () => {
         Let's work together!
       </h1>
       <p className="text-gray-200 mt-3 lg:text-base text-xs md:text-sm">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea beatae quia
-        excepturi corrupti repellendus. Aliquid!
+        Transform your ideas into reality with innovative solutions tailored to
+        your needs.
       </p>
       {/* input fields */}
       <form className="mt-8 block w-full overflow-hidden">

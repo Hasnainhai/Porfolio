@@ -18,7 +18,12 @@ const Project = () => {
               key={project.id}
               className="bg-blue-950 p-6 rounded-lg hover:scale-105 transition-all duration-300"
             >
-              <Link href={project.url} target="_blank">
+              <video style={{ height: "200px", width: "100%" }} controls>
+                <source src={`${project.video}`} type="video/mp4" />
+                Your browser does not support the video tag.
+              </video>
+              {/* <Link href={project.url} target="_blank">
+
                 <Image
                   src={project.image}
                   alt="project"
@@ -26,7 +31,7 @@ const Project = () => {
                   height={200}
                   className="w-full"
                 />
-              </Link>
+              </Link> */}
             </div>
           );
         })}

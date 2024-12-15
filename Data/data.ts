@@ -74,38 +74,40 @@ export const servicesData = [
 export const projectData = [
   {
     id: 1,
-    image: "/images/p1.png",
-    url: "https://agency-opal-eight.vercel.app/",
+    title: "Karakoram Cabs (Ride Booking App)",
+    url: "https://github.com/ba138/Karakuram-Cabs",
     video: "/videos/project1.mp4",
   },
   {
     id: 2,
-    image: "/images/p2.png",
-    url: "https://burger-pearl.vercel.app/",
+    title: "Citta App: A Modern E-Commerce Solution for a Vegan Lifestyle",
+    url: "https://github.com/Hasnainhai/CITTA-23",
     video: "/videos/project2.mp4",
   },
   {
     id: 3,
-    image: "/images/p3.png",
-    url: "https://game-ecommerce-yt.vercel.app/",
+    title: "Zarozar: Unlocking Multi-Vendor E-Commerce with API Integration",
+    url: "https://github.com/Hasnainhai/Zarozar",
     video: "/videos/project3.mp4",
   },
   {
     id: 4,
-    image: "/images/p4.png",
-    url: "https://elearning-yt.vercel.app/",
+    title: "Rajasthan Dry Fruit: API-Driven Multi-Vendor Platform",
+    url: "https://github.com/ba138/Rajasthan-Dry-Fruits",
     video: "/videos/project4.mp4",
   },
   {
     id: 5,
-    image: "/images/p5.png",
-    url: "https://invest-peach.vercel.app/",
+    title:
+      "Nanny Fairy: Connecting Families with Trusted Home Service Providers",
+    url: "https://github.com/IntralinkTechnology/nanny_fairy",
     video: "/videos/project5.mp4",
   },
   {
     id: 6,
-    image: "/images/p6.png",
-    url: "https://job-chi-ruby.vercel.app/",
+    title:
+      "Emos: Bridging Hospitals, Ambulances, and Health Services for Better Care",
+    url: "https://github.com/Hasnainhai/emos",
     video: "/videos/project6.mp4",
   },
 ];
@@ -114,49 +116,49 @@ export const skillsData = [
   {
     id: 1,
     title: "Flutter",
-    image: "/images/flutter.svg",
+    image: "/images/flutter.jpeg",
     percent: "90%",
   },
   {
     id: 2,
     title: "Dart",
-    image: "/images/css.svg",
+    image: "/images/dart.jpeg",
     percent: "97%",
   },
   {
     id: 3,
     title: "Android",
-    image: "/images/js.svg",
+    image: "/images/android.jpeg",
     percent: "77%",
   },
   {
     id: 4,
     title: "Ios",
-    image: "/images/ts.svg",
+    image: "/images/ios.jpeg",
     percent: "67%",
   },
   {
     id: 5,
     title: "Swift",
-    image: "/images/html.svg",
+    image: "/images/swift.jpeg",
     percent: "67%",
   },
   {
     id: 6,
     title: "Kotlin",
-    image: "/images/node.svg",
+    image: "/images/kotlin.jpeg",
     percent: "77%",
   },
   {
     id: 7,
     title: "Java",
-    image: "/images/mongo.svg",
+    image: "/images/java.jpeg",
     percent: "65%",
   },
   {
     id: 8,
     title: "Api's",
-    image: "/images/python.svg",
+    image: "/images/api.jpeg",
     percent: "55%",
   },
   {
@@ -168,7 +170,7 @@ export const skillsData = [
   {
     id: 10,
     title: "SQLite",
-    image: "/images/vue.svg",
+    image: "/images/sqlite.jpeg",
     percent: "35%",
   },
 ];

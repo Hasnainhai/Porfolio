@@ -21,9 +21,10 @@ const Hero = () => {
             <h1
               data-aos="fade-right"
               data-aos-delay="100"
-              className="text-bg text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold md:leading-[3rem] lg:leading-[3.5rem] xl:leading-[4rem] text-white"
+              className="text-bg text-3xl sm:text-2xl md:text-2xl lg:text-3xl xl:text-4xl font-bold md:leading-[3rem] lg:leading-[3.5rem] xl:leading-[4rem] text-white"
             >
               {BaseInfo.position}
+              (Flutter/Dart)
             </h1>
             {/* Description */}
             <p

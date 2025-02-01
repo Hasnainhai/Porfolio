@@ -59,11 +59,11 @@ const ContactForm = () => {
       // hasnain plz replace with your ids 
       emailjs
         .sendForm(
-          "service_7mqgyu3", // replace service-id
-          "template_1yimi8s", //replace template_id
+          "service_sqce9kh", // replace service-id
+          "template_0j1l8y4", //replace template_id
           form.current,
           {
-            publicKey: "OrKp0c-ruMHm47yoO", //replace Public_key
+            publicKey: "gfyJIBoe7BUx8Q5WK", //replace Public_key
           }
         )
         .then(

@@ -56,13 +56,14 @@ const ContactForm = () => {
         return; // Stop if validation fails
       }
 
+      // hasnain plz replace with your ids 
       emailjs
         .sendForm(
           "service_7mqgyu3", // replace service-id
-          "template_1yimi8s", // template_id
+          "template_1yimi8s", //replace template_id
           form.current,
           {
-            publicKey: "OrKp0c-ruMHm47yoO", //Public_ye
+            publicKey: "OrKp0c-ruMHm47yoO", //replace Public_key
           }
         )
         .then(

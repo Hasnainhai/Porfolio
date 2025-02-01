@@ -218,6 +218,7 @@ export const blogs = [
       "Explore the key app development trends for 2024 and their impact on your business.",
     date: "August 18, 2024",
     image: "/images/b1.jpg",
+    url: "https://explodingtopics.com/blog/app-trends",
   },
   {
     id: 2,
@@ -226,6 +227,7 @@ export const blogs = [
       "Discover why custom app applications are crucial for driving business growth and efficiency.",
     date: "August 10, 2024",
     image: "/images/b2.jpg",
+    url: "https://medium.com/@lizakosh4/why-every-business-needs-custom-application-development-to-stay-ahead-9df2402c6265",
   },
   {
     id: 3,
@@ -234,11 +236,12 @@ export const blogs = [
       "Understand how app speed impacts user experience and learn essential optimization tips.",
     date: "July 25, 2024",
     image: "/images/b3.jpg",
+    url: "https://www.ibm.com/think/insights/application-performance-optimization",
   },
 ];
 
 export const contactData = {
   phone: "+92(3129739152)",
   email: "hasnainhaiderbs2099@gmail.com",
-  address: "Gilgit , Pakistan",
+  address: " Islamabad,Pakistan",
 };

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import React from "react";
 
 // define props type
@@ -9,11 +10,13 @@ type Props = {
     summary: string;
     date: string;
     image: string;
+    url: string;
   };
 };
 
 const BlogCard = ({ blog }: Props) => {
-  const { date, image, summary, title } = blog;
+  const { date, image, summary, title, url } = blog;
+  const router = useRouter();
   return (
     <div className="bg-indigo-950 rounded-md overflow-hidden">
       <Image
@@ -23,7 +26,10 @@ const BlogCard = ({ blog }: Props) => {
         height={300}
         className="w-full h-[250px] object-cover"
       />
-      <div className="p-6">
+      <div
+        className="p-6 d-block cursor-pointer"
+        onClick={() => router.push(`${url}`)}
+      >
         <p className="rounded-sm px-6 py-1.5 bg-rose-500 text-white w-fit">
           News
         </p>

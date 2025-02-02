@@ -2,14 +2,14 @@ export const BaseInfo = {
   name: "HASNAIN HAIDER",
   position: "Full Stack App Developer",
   description:
-    "Experienced Software Engineer and Senior Flutter Developer specializing in cross-platform apps, real-time databases, API integration, and seamless user experiences.",
+    "Flutter Developer specializing in building cross-platform applications, integrating real-time databases, and connecting APIs to create smooth and efficient user experiences.",
   profilePic: "/images/hero1.png",
 };
 
 export const aboutInfo = {
   title: "Crafting App Application with Passion and Precision",
   description:
-    "At Intralink Technologies, we’re a dedicated team of designers and developers committed to delivering tailored app solutions. With a blend of creativity and technical expertise, we help businesses elevate their online presence and achieve their goals",
+    "I am a Full-Stack Flutter Developer with 3+ years of experience, successfully delivering high-performance, cross-platform applications. I have completed numerous projects with proven client satisfaction and successfully launched several apps on the Google Play Store. With expertise in Flutter & Dart, I specialize in creating seamless user experiences by integrating real-time databases, RESTful APIs, and scalable backend solutions, ensuring reliability, efficiency, and smooth performance in every app I build.",
   client: "50+",
   experience: "4+",
   project: "50+",

@@ -7,7 +7,7 @@ export const BaseInfo = {
 };
 
 export const aboutInfo = {
-  title: "Crafting App Application with Passion and Precision",
+  title: "Crafting Applications with Passion and Precision",
   description:
     "I am a Full-Stack Flutter Developer with 3+ years of experience, successfully delivering high-performance, cross-platform applications. I have completed numerous projects with proven client satisfaction and successfully launched several apps on the Google Play Store. With expertise in Flutter & Dart, I specialize in creating seamless user experiences by integrating real-time databases, RESTful APIs, and scalable backend solutions, ensuring reliability, efficiency, and smooth performance in every app I build.",
   client: "50+",
